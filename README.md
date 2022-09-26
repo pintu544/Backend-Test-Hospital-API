@@ -1,7 +1,7 @@
 ﻿# Backend-Test-Hospital-API
 
 https://pacific-ridge-92098.herokuapp.com/
-
+https://hospitalapibackend.herokuapp.com/
 Hospital-API
 I have design an API using Node.js and MongoDB for the doctors of a Hospital which has been allocated by the govt for testing and quarantine + well being of COVID-19 patients.
 
@@ -36,7 +36,7 @@ Start the server
   npm start
 Documentation
 Root Hosted Link - https://pacific-ridge-92098.herokuapp.com/
-
+https://hospitalapibackend.herokuapp.com/
 Routes :
 
 a. /doctors/register - Registers a new Doctor.
